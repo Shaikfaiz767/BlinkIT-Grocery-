@@ -61,6 +61,7 @@ Blinkit needed to track and analyze:
 ## 📊 Dashboard Preview
 
 Here’s a snapshot of the Excel dashboard:
+https://github.com/Shaikfaiz767/BlinkIT-Grocery-/blob/main/Dashboard.png
 
 
 
